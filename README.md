@@ -2,15 +2,6 @@
 
 This is a simple To-Do application built using the MERN stack (MongoDB, Express.js, React.js, and Node.js). The application has a clean and user-friendly interface and connects to a MongoDB database to store and retrieve to-dos.
 
-## Table of Contents
-
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Requirements
 
